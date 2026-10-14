@@ -131,6 +131,9 @@ which flow it implements in the PR description. Update `ROADMAP.md` on
 every contribution that starts, completes, or blocks a tracked item — same
 rule as every other repo in the `DocForum` org.
 
+Questions, or want to talk through an issue before picking it up? Join the
+DocForum contributor chat on [Telegram](https://t.me/+NJ-9ZYDA_nE5ZTA0).
+
 ## License
 
 [Apache License 2.0](LICENSE)
